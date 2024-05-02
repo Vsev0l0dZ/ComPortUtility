@@ -3,4 +3,4 @@
 позволяет использовать настройки из конфигурационных *.ini файлов,  
 без необходимости обращаться к окну интерфейса настроек программы при подключении устройства.
 
-![screenshot](https://github.com/Vsev0l0dZ/ComPortUtility/assets/98832327/9918ad87-fe66-4761-8f01-be3e06b72d2c)
+![screenshot](https://github.com/Vsev0l0dZ/ComPortUtility/assets/98832327/a6905980-4371-4f6c-a2bb-c480d402d179)
